@@ -1,0 +1,6 @@
+{
+  "name": "Discover",
+  "description": "Personal intelligent content aggregator driven by user-defined tags and automatic source discovery across news, scientific publications, and videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
